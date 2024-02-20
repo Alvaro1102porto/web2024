@@ -11,8 +11,14 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(76, 187, 32);
     font-family: "Audiowide", sans-serif;
+}
+
+#corpo{
+    text-align: left 
+    color 
+    rgb(182, 32, 187);
 }
 
 h3 {
